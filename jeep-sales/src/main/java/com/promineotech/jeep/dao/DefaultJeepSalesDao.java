@@ -18,6 +18,7 @@ import com.promineotech.jeep.entity.JeepModel;
 
 import lombok.extern.slf4j.Slf4j;
 
+@SuppressWarnings("unused")
 @Component
 @Slf4j
 public class DefaultJeepSalesDao implements JeepSalesDao {
